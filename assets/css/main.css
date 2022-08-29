@@ -1,0 +1,21 @@
+body{
+    background-color: #efefe3;
+}
+
+.rounded-header{
+    border-radius: 10px;
+}
+
+.rounded-header .picture{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.resume-wrapper .rounded-header{
+    height: 260px;
+}
+
+.resume-wrapper .rounded-header .picture{
+    width: 220px;
+    height: 260px;
+}
