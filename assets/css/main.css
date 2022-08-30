@@ -2,9 +2,9 @@ body{
     background-color: #efefe3;
 }
 
-.badge.bg-secondary{
+.list-inline-item span.badge.bg-secondary{
     
-    background: #328998 !important;
+    background-color: #328998 !important;
 }
 
 .rounded-header{
