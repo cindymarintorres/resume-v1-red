@@ -11,7 +11,7 @@ body{
     border-bottom-left-radius: 10px;
 }
 
-.resume-wrapper .rounded-header{
+.resume-wrapper-inner .rounded-header{
     height: 260px;
 }
 
