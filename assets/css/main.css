@@ -2,7 +2,7 @@ body{
     background-color: #efefe3;
 }
 
-.badge-secundary{
+.badge.bg-secundary{
     
     background: #328998 !important;
 }
