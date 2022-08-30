@@ -2,6 +2,11 @@ body{
     background-color: #efefe3;
 }
 
+.badge-secundary{
+    
+    background: #328998 !important;
+}
+
 .rounded-header{
     border-radius: 10px;
 }
