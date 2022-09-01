@@ -24,3 +24,17 @@ body{
     width: 220px;
     height: 260px;
 }
+
+@media (min-width: 320px) {
+
+    .resume-wrapper-inner .rounded-header{
+        height: auto;
+    }
+}
+
+@media (min-width: 992px) {
+
+    .resume-wrapper-inner .rounded-header{
+        height: 260px;
+    }
+}
