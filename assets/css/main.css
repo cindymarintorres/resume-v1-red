@@ -1,40 +1,41 @@
-body{
-    background-color: #efefe3;
+body {
+  background-color: #efefe3;
 }
 
-.list-inline-item span.badge.bg-secondary{
-    
-    background-color: #80425F !important;
+.list-inline-item span.badge.bg-secondary {
+  background-color: #80425f !important;
 }
 
-.rounded-header{
-    border-radius: 10px;
+.rounded-header {
+  border-radius: 10px;
 }
 
-.rounded-header .picture{
-    border-top-left-radius: 10px;
-    border-bottom-left-radius: 10px;
+.rounded-header .picture {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
 }
 
-.resume-wrapper-inner .rounded-header{
-    height: 260px;
+.resume-wrapper-inner .rounded-header {
+  height: 260px;
 }
 
-.resume-wrapper .rounded-header .picture{
-    width: 220px;
-    height: 260px;
+.resume-wrapper .rounded-header .picture {
+  width: 220px;
+  height: 260px;
+}
+
+.icon-size {
+  font-size: 0.7em !important;
 }
 
 @media (min-width: 320px) {
-
-    .resume-wrapper-inner .rounded-header{
-        height: auto;
-    }
+  .resume-wrapper-inner .rounded-header {
+    height: auto;
+  }
 }
 
 @media (min-width: 992px) {
-
-    .resume-wrapper-inner .rounded-header{
-        height: 260px;
-    }
+  .resume-wrapper-inner .rounded-header {
+    height: 260px;
+  }
 }
